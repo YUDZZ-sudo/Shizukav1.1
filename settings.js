@@ -1,4 +1,4 @@
-//Recode by @Tan 
+//Recode by @Lucy 
 //Thanks for Dev @Fernazer
 const chalk = require("chalk")
 const fs = require("fs")
@@ -17,26 +17,26 @@ global.btz = 'masukkan apikey mu di sini'
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
 global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
-global.owner = ['6282339835060'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '6282339835060'
-global.socialm = 'GitHub: Tanmyname'
+global.ttowner = '@Wayss⁹¹¹'
+global.ownername = '@Lucy'
+global.owner = ['6288809678837'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6288809678837'
+global.socialm = 'GitHub: YUDZZ-sudo'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '6282339835060' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '6282339835060 ' // KOSONG KAN JIKA TIDAK ADA 
+global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = ' ' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
+global.andana = '' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
 global.botname = "Tv2"
-global.ownernumber = '6282339835060'
-global.botnumber = '6285198468895'
-global.ownername = '@Tan'
-global.ownerNumber = ["6282339835060@s.whatsapp.net"]
+global.ownernumber = '6288809678837'
+global.botnumber = '6283862433797'
+global.ownername = '@Lucy'
+global.ownerNumber = ["6288809678837@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
@@ -46,8 +46,8 @@ global.themeemoji = '🪀'
 global.wm = "Tv2 | 6285198468895"
 global.botscript = 'Ngk ada wle😂' //script link
 global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
-global.creator = "6285198468895@s.whatsapp.net"
+global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6288809678837"
+global.creator = "6288809678837@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
