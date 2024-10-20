@@ -1,5 +1,5 @@
-//Recode by @Tan 
-//Thanks for Dev @Fernazer
+//Recode by @Wayss
+//Thanks for Dev @Ter911
 const chalk = require("chalk")
 const fs = require("fs")
 
@@ -16,20 +16,20 @@ global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
+global.yt = ''
+global.ttowner = '@codenameLucy'
+global.ownername = '@Lucy'
 global.owner = ['6282339835060'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
 global.ownernomer = '6282339835060'
 global.socialm = 'GitHub: Tanmyname'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '6282339835060' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '6282339835060 ' // KOSONG KAN JIKA TIDAK ADA 
+global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
+global.andana = '' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
 global.botname = "Tv2"
